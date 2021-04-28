@@ -1,3 +1,4 @@
+//Create an axios instance
 import axios from "axios";
 
 const KEY = "AIzaSyBcdMxp6UkKC2yA79ID6wFYIe1Z4sByNzs";
